@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 
 admin_credentials = {
-    'Admin': '123',
+    'Admin': 'admin',
 }
 
 donor_info = {}
