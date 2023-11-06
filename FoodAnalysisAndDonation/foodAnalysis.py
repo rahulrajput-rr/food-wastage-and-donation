@@ -24,11 +24,8 @@ def load_data(file_path):
     data = pd.read_csv(file_path)
     return data
 
-# Function to get available Y-axis column options
-
 
 def get_y_axis_options(data):
-    # Assuming the Y-axis columns start from the third column
     return data.columns[2:]
 
 # Function to analyze data and create graphs
