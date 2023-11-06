@@ -1,4 +1,4 @@
-# food-wastage-and-donation
+# Waste Food Management & Donation Analysis with  Graphs/Figures 
 
 The "Waste Food Management & Donation Analysis" project is a comprehensive initiative aimed at addressing the pressing issues of food waste, food insecurity, and the impact of food donation programs. In an effort to create a more sustainable and equitable food ecosystem, this project endeavours to thoroughly analyse, manage, and offer insights into waste food management and food donation practices.
 
